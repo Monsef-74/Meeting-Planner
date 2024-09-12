@@ -10,4 +10,4 @@ def about(request):
     return HttpResponse('I am Monsef')
 
 def members(request):
-    return HttpResponse('you are the only memeber here , you are alone !')
+    return HttpResponse('memeber here')
